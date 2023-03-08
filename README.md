@@ -1,1 +1,2 @@
-# cat_boarding_house-idle-game-
+# cat_boarding_house
+* idle game made with unity
